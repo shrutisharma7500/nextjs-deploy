@@ -1,0 +1,90 @@
+{
+    "courses":[
+
+    {
+        "id": 1,
+        "title": "Introduction to Music Theory",
+        "slug": "introduction-to-music-theory",
+        "description": "Learn the fundamentals of music theory, including notes, scales, chords, and rhythm.",
+        "isFeatured": true,
+        "instructor": {
+            "name": "John Doe",
+            "qualification": "Music Professor",
+            "experience": "10+ years"
+        },
+        "price": 49.99,
+        "image": "https://example.com/music-theory.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Piano Masterclass",
+        "slug": "piano-masterclass",
+        "description": "Master the art of playing the piano with advanced techniques and practice exercises.",
+        "isFeatured": true,
+        "instructor": {
+            "name": "Jane Smith",
+            "qualification": "Concert Pianist",
+            "experience": "15+ years"
+        },
+        "price": 79.99,
+        "image": "https://example.com/piano-masterclass.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Guitar Basics",
+        "slug": "guitar-basics",
+        "description": "Get started with guitar playing, from understanding the instrument to playing simple tunes.",
+        "isFeatured": true,
+        "instructor": {
+            "name": "Michael Johnson",
+            "qualification": "Guitarist",
+            "experience": "8+ years"
+        },
+        "price": 59.99,
+        "image": "https://example.com/guitar-basics.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Vocal Training Program",
+        "slug": "vocal-training-program",
+        "description": "Improve your singing skills with vocal exercises, techniques, and performance tips.",
+        "isFeatured": true,
+        "instructor": {
+            "name": "Emily Brown",
+            "qualification": "Vocal Coach",
+            "experience": "12+ years"
+        },
+        "price": 69.99,
+        "image": "https://example.com/vocal-training.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Drums Workshop",
+        "slug": "drums-workshop",
+        "description": "Learn drumming techniques, rhythms, and styles in a hands-on workshop format.",
+        "isFeatured": true,
+        "instructor": {
+            "name": "Alex Green",
+            "qualification": "Drummer",
+            "experience": "7+ years"
+        },
+        "price": 54.99,
+        "image": "https://example.com/drums-workshop.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Introduction to Music Theory",
+        "slug": "introduction-to-music-theory",
+        "description": "Learn the fundamentals of music theory, including notes, scales, chords, and rhythm.",
+        "isFeatured": true,
+        "instructor": {
+            "name": "John Doe",
+            "qualification": "Music Professor",
+            "experience": "10+ years"
+        },
+        "price": 49.99,
+        "image": "https://example.com/music-theory.jpg"
+    }
+]
+
+}

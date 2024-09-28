@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles/globals.css */
+ *{
+  background-color: #160f0f; /* Set your desired background color */
+ }
+ *{
+    color:aliceblue;
+ }
+ /* .UpcomingWebinars{
+   background-color:gray ;
+ } */
+
+
